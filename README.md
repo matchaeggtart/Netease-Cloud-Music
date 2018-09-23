@@ -6,7 +6,7 @@
 
 <<<<<<< HEAD
 <br>
-##English
+####English
 <br>
 The important think is installing the VLC
 <br>
@@ -51,7 +51,7 @@ sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfre
 sudo dnf install vlc
 ```
 
-##中文
+####中文
 <br>
 #### 终端直接安装
 <br>
@@ -81,12 +81,10 @@ ar -xvf netease-cloud-music_1.1.0_amd64_ubuntu.deb
 ```Bash
 tar -xvf data.tar.xz
 ```
-<br>
 3.把解压后的文件复制到/usr/
 ```Bash
 sudo cp -r usr/* /usr/
 ```
-<br>
 4.安装 rpmfusion-free 和 rpmfusion-nonfree （为了安装VLC）
 ```Bash
 sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
