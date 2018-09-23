@@ -1,8 +1,9 @@
 # Fedora-28-netease-cloud-music
 
 ## Screenshots
-![Alt text](https://github.com/matchaeggtart/Netease-Cloud-Music/Screenshots/screenshot.png)
+![Alt text](https://github.com/matchaeggtart/Netease-Cloud-Music/raw/master/Screenshots/Screenshot.png)
 <br>
+
 <<<<<<< HEAD
 <br>
 ##English
