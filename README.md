@@ -5,8 +5,7 @@
 <br>
 
 <<<<<<< HEAD
-<br>
-####English
+## English
 <br>
 The important think is installing the VLC
 <br>
@@ -51,12 +50,11 @@ sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfre
 sudo dnf install vlc
 ```
 
-####中文
-<br>
-#### 终端直接安装
+#### 中文
 <br>
 最重要是安装VLC，安装上了就能用了
 <br>
+#### 终端直接安装
 ```Bash
 git clone https://github.com/matchaeggtart/Netease-Cloud-Music.git
 ```
