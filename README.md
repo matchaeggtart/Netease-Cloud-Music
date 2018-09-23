@@ -65,6 +65,7 @@ sh Netease-Cloud-Music/install.sh
 ```
 #### 手动安装
 1.创建一个文件夹来安装
+<br>
 ```Bash
 mkdir ~/netease-cloud-music
 ```
