@@ -35,12 +35,10 @@ ar -xvf netease-cloud-music_1.1.0_amd64_ubuntu.deb
 ```Bash
 tar -xvf data.tar.xz
 ```
-<br>
 3.Copy to the /usr/
 ```Bash
 sudo cp -r usr/* /usr/
 ```
-<br>
 4.Install rpmfusion-free && rpmfusion-nonfree for install VLC
 ```Bash
 sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
