@@ -6,9 +6,7 @@
 
 <<<<<<< HEAD
 ## English
-<br>
 The important think is installing the VLC
-<br>
 #### Terminal installation
 ```Bash
 git clone https://github.com/matchaeggtart/Netease-Cloud-Music.git
@@ -51,9 +49,7 @@ sudo dnf install vlc
 ```
 
 #### 中文
-<br>
 最重要是安装VLC，安装上了就能用了
-<br>
 #### 终端直接安装
 ```Bash
 git clone https://github.com/matchaeggtart/Netease-Cloud-Music.git
