@@ -1,4 +1,4 @@
-# Fedora-28-netease-cloud-music
+# Fedora 28 install Netease Cloud Music 1.1.0
 
 ## Screenshots
 ![Alt text](https://github.com/matchaeggtart/Netease-Cloud-Music/raw/master/Screenshots/Screenshot.png)
@@ -48,7 +48,7 @@ sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfre
 sudo dnf install vlc
 ```
 
-#### 中文
+## 中文
 最重要是安装VLC，安装上了就能用了
 #### 终端直接安装
 ```Bash
