@@ -1,10 +1,11 @@
 # Fedora 28 install Netease Cloud Music 1.1.0
+<<<<<<< HEAD
 
 ## Screenshots
 ![Alt text](https://github.com/matchaeggtart/Netease-Cloud-Music/raw/master/Screenshots/Screenshot.png)
 <br>
 
-<<<<<<< HEAD
+
 ## English
 The important think is installing the VLC
 #### Terminal installation
