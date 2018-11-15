@@ -1,4 +1,4 @@
-# Fedora 28 install Netease Cloud Music 1.1.0
+# Fedora 29 install Netease Cloud Music 1.1.0
 
 ## Screenshots
 ![Alt text](https://github.com/matchaeggtart/Netease-Cloud-Music/raw/master/Screenshots/Screenshot.png)
