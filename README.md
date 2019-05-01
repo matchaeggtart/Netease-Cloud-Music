@@ -53,8 +53,10 @@ sudo dnf install libXScrnSaver
 ```
 
 ## 中文
-最重要是安装VLC，安装上了就能用了
-我之前漏了libXss.so.1， 因为已经装了Chrome， 所以这个依赖在安装Chrome的时候已经安装了， 如果没有安装Chrome， 就要安装libXScrnSaver
+最重要是安装VLC，安装上了就能用了 <br>
+我之前漏了libXss.so.1， 因为已经装了Chrome， 所以这个依赖在安装Chrome的时候已经安装了， 如果没有安装Chrome， 就要安装libXScrnSaver <br>
+怎么安装Chrome <br>
+https://tecadmin.net/install-google-chrome-in-centos-rhel-and-fedora/
 #### 终端直接安装
 ```Bash
 git clone https://github.com/matchaeggtart/Netease-Cloud-Music.git
