@@ -6,8 +6,10 @@
 
 
 ## English
-The important think is installing the VLC
-I think it needs the libXss.so.1 from libXScrnSaver (But if you have even installed the Chrome, you needn't install libXScrnSaver)
+The important think is installing the VLC <br>
+I think it needs the libXss.so.1 from libXScrnSaver (But if you have even installed the Chrome, you needn't install libXScrnSaver) <br>
+How to install chrome? <br>
+https://tecadmin.net/install-google-chrome-in-centos-rhel-and-fedora/
 #### Terminal installation
 ```Bash
 git clone https://github.com/matchaeggtart/Netease-Cloud-Music.git
