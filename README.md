@@ -1,4 +1,4 @@
-# Fedora 29 install Netease Cloud Music 1.1.0
+# Fedora 29 & 30 install Netease Cloud Music 1.1.0
 
 ## Screenshots
 ![Alt text](https://github.com/matchaeggtart/Netease-Cloud-Music/raw/master/Screenshots/Screenshot.png)
@@ -7,6 +7,7 @@
 
 ## English
 The important think is installing the VLC
+I think it needs the libXss.so.1 from libXScrnSaver (But if you have even installed the Chrome, you needn't install libXScrnSaver)
 #### Terminal installation
 ```Bash
 git clone https://github.com/matchaeggtart/Netease-Cloud-Music.git
@@ -43,13 +44,15 @@ sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-rele
 ```Bash
 sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 ```
-5.Install VLC
+5.Install VLC and libXScrnSaver
 ```Bash
 sudo dnf install vlc
+sudo dnf install libXScrnSaver
 ```
 
 ## 中文
 最重要是安装VLC，安装上了就能用了
+我之前漏了libXss.so.1， 因为已经装了Chrome， 所以这个依赖在安装Chrome的时候已经安装了， 如果没有安装Chrome， 就要安装libXScrnSaver
 #### 终端直接安装
 ```Bash
 git clone https://github.com/matchaeggtart/Netease-Cloud-Music.git
@@ -87,7 +90,8 @@ sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-rele
 ```Bash
 sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 ```
-5.安装VLC
+5.安装VLC 跟 libXScrnSaver
 ```Bash
 sudo dnf install vlc
+sudo dnf install libXScrnSaver
 ```
