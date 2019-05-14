@@ -1,4 +1,10 @@
 # Fedora 29 & 30 install Netease Cloud Music 1.1.0
+<br>
+<br>
+Fedora 30 install Netease Cloud Music 1.2.0 
+要安装 1.2.0 的可以移步到， 感谢 @xuthus
+https://github.com/xuthus5/fedora-netease
+
 
 ## Screenshots
 ![Alt text](https://github.com/matchaeggtart/Netease-Cloud-Music/raw/master/Screenshots/Screenshot.png)
